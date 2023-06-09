@@ -3,7 +3,7 @@
 
 The PHP login form includes a register page where users can create an account, a login page for existing users to access their account, and a logged-in landing page that serves as a personalized dashboard with relevant information and features. It ensures secure data storage and authentication, providing a seamless and secure user experience.
 
-
+**Link preview:** http://login-example.infinityfreeapp.com/index.php
 
 ## Authors
 
